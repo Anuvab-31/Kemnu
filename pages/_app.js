@@ -22,7 +22,7 @@ export default function MyApp(props) {
         <SnackbarProvider>
             <CacheProvider value={emotionCache}>
                 <Head>
-                    <title>Task</title>
+                    <title>Demo Kemnu</title>
                     <meta content="initial-scale=1, width=device-width" name="viewport" />
                 </Head>
                 <ThemeProvider theme={theme}>
