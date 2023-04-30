@@ -1,0 +1,10 @@
+{
+    "apps" : [
+        {
+            "name"      : "web_dev",
+            "script"    : "yarn && yarn build && yarn start",
+            "interpreter": "none",
+            "args": "serve -p 8443 -T"
+        }
+    ]
+}

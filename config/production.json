@@ -1,0 +1,17 @@
+{
+    "baseUrl": "https://api.kemnu.com",
+    "cookieName":"kemnu-token-prod",
+    "fcm_vapid": "BH7fmUPbi2RzNKpLYbpP7XPe4WlL6ZdQFPQtWQAsS48oK7HlOFh8VJ1B2ADlmCK7upP6pXKKeCqQv7WUGlHt_4A",
+    "google": {
+        "clientId": "157793104674-j0dk9pgpbthr02bdfs7nvodgtv7m39n2.apps.googleusercontent.com"
+    },
+    "webUrl": "https://test.kemnu.com",
+    "apple": {
+        "clientId": "com.kemnu",
+        "scope": "name email",
+        "redirectURI": "https://test.kemnu.com",
+        "state": "123456789",
+        "nonce": "123456789",
+        "usePopup": true
+    }
+}

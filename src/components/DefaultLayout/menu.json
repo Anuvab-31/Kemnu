@@ -1,0 +1,426 @@
+[
+    {
+        "_id": "5ff8967f1ekjc21e46861ac7",
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Dashboard"
+        },
+        "materialIconName": "Dashboard",
+        "type": "ADMIN",
+        "href": "/",
+        "module": "see_dashboard",
+        "meta_name": "manage_dashboard",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-01-08T17:29:35.550Z",
+        "updatedAt": "2021-01-13T19:28:38.633Z",
+        "__v": 0,
+        "updatedBy": "5fe58f6160591bd99d7cf874"
+    },
+    {
+        "_id": "5fe60edcbd16c807e44e6e03",
+        "order": 0,
+        "status": 1,
+        "name": {
+            "en": "Franchises"
+        },
+        "icon": {
+            "_id": "5fe60eadbd16c807e44e6e02",
+            "status": 0,
+            "name": "Franchise",
+            "path": "https://rrk-procurement.s3.amazonaws.com/building.png",
+            "createdBy": "5fe58f6160591bd99d7cf874",
+            "createdAt": "2020-12-25T16:09:17.866Z",
+            "updatedAt": "2021-01-05T09:52:25.536Z",
+            "__v": 0,
+            "updatedBy": "5fe58f6160591bd99d7cf874"
+        },
+        "type": "ADMIN",
+        "href": "/institutes",
+        "meta_name": "manage_franchises",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2020-12-25T16:10:04.563Z",
+        "updatedAt": "2021-01-05T09:51:36.182Z",
+        "__v": 0,
+        "updatedBy": "5fe58f6160591bd99d7cf874"
+    },
+    {
+        "_id": "6022de243daea9o5g44254ed",
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": true,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "All Users"
+        },
+        "materialIconName": "PeopleAlt",
+        "type": "ADMIN",
+        "href": "#",
+        "createdBy": "5ff30a5ead38b8366c78b08b",
+        "createdAt": "2021-02-09T19:10:28.501Z",
+        "updatedAt": "2021-02-09T19:10:28.501Z",
+        "__v": 0,
+        "options": [
+            {
+                "_id": "5ffaebf8aa9fa640abc6d293",
+                "order": 0,
+                "parent": null,
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "Teachers"
+                },
+                "materialIconName": "AccountCircle",
+                "type": "ADMIN",
+                "href": "/teachers",
+                "meta_name": "manage_teachers",
+                "createdBy": "5fe58f6160591bd99d7cf874",
+                "createdAt": "2021-01-10T11:58:48.010Z",
+                "updatedAt": "2021-01-10T11:58:48.010Z",
+                "__v": 0
+            },
+            {
+                "_id": "5ffaef5dc031866c4a888d41",
+                "order": 0,
+                "parent": null,
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "Students"
+                },
+                "materialIconName": "Group",
+                "type": "ADMIN",
+                "href": "/students",
+                "meta_name": "manage_students",
+                "createdBy": "5fe58f6160591bd99d7cf874",
+                "createdAt": "2021-01-10T12:13:17.262Z",
+                "updatedAt": "2021-01-10T12:13:17.262Z",
+                "__v": 0
+            },
+            {
+                "_id": "5ffaef5dc031866c4a888d41",
+                "order": 0,
+                "parent": null,
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "All SubAdmin"
+                },
+                "materialIconName": "Accessibility",
+                "type": "ADMIN",
+                "href": "/all-sub-admin",
+                "meta_name": "manage_students",
+                "createdBy": "5fe58f6160591bd99d7cf874",
+                "createdAt": "2021-01-10T12:13:17.262Z",
+                "updatedAt": "2021-01-10T12:13:17.262Z",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "5ffaef5dc031866c4a888d41",
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Timetable Request"
+        },
+        "materialIconName": "CalendarToday",
+        "type": "ADMIN",
+        "href": "/timetable",
+        "meta_name": "manage_timetable",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-01-10T12:13:17.262Z",
+        "updatedAt": "2021-01-10T12:13:17.262Z",
+        "__v": 0
+    },
+    {
+        "_id": "6002fc3f4314d6c93015bdfd",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": true,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Academics"
+        },
+        "materialIconName": "MenuBook",
+        "type": "ADMIN",
+        "href": "#",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-01-16T14:46:23.088Z",
+        "updatedAt": "2021-01-16T14:46:23.088Z",
+        "__v": 0,
+        "options": [
+            {
+                "_id": "6002fc404314d6c93015bdfe",
+                "institute": null,
+                "order": 0,
+                "parent": "6002fc3f4314d6c93015bdfd",
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": " All Course"
+                },
+                "materialIconName": "Dns",
+                "icon": "5fec938d2b531685e091b225",
+                "href": "/courses",
+                "type": "ADMIN",
+                "meta_name": "manage_courses",
+                "createdBy": "5fe58f6160591bd99d7cf874",
+                "createdAt": "2021-01-16T14:46:24.413Z",
+                "updatedAt": "2021-01-16T14:46:24.413Z",
+                "__v": 0
+            },{
+                "_id": "5ff8967f1feec21e46861ac7",
+                "order": 0,
+                "parent": null,
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "All Master Subjects"
+                },
+                "materialIconName": "ListAlt",
+                "type": "ADMIN",
+                "href": "/subjects",
+                "meta_name": "manage_master_subject",
+                "createdBy": "5fe58f6160591bd99d7cf874",
+                "createdAt": "2021-01-08T17:29:35.550Z",
+                "updatedAt": "2021-01-13T19:28:38.633Z",
+                "__v": 0,
+                "updatedBy": "5fe58f6160591bd99d7cf874"
+            }
+        ]
+    },
+    {
+        "_id": "601d592b6d078a387aef2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Video Tutorials"
+        },
+        "materialIconName": "MusicVideo",
+        "type": "ADMIN",
+        "href": "/video-lecture",
+        "meta_name": "manage_videos",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "601d592b6d078a387aef2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "E-Library"
+        },
+        "materialIconName": "MarkunreadMailbox",
+        "type": "ADMIN",
+        "href": "/materials",
+        "meta_name": "manage_materials",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "601d592b6d078a387ae5tf2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Assignments"
+        },
+        "materialIconName": "Assignment",
+        "type": "ADMIN",
+        "href": "/all-assignments",
+        "meta_name": "manage_assignments",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "601d592b6d078a387aef2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "All Exams"
+        },
+        "materialIconName": "Assessment",
+        "type": "ADMIN",
+        "href": "/all-exams",
+        "meta_name": "manage_exams",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "601d592b6d078a287aef2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "All Live Classes"
+        },
+        "materialIconName": "Class",
+        "type": "ADMIN",
+        "href": "/all-classes",
+        "meta_name": "manage_liveClasses",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "6022de243daea90ed94254ed",
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": true,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "Master Data"
+        },
+        "materialIconName": "DataUsage",
+        "type": "ADMIN",
+        "href": "#",
+        "createdBy": "5ff30a5ead38b8366c78b08b",
+        "createdAt": "2021-02-09T19:10:28.501Z",
+        "updatedAt": "2021-02-09T19:10:28.501Z",
+        "__v": 0,
+        "options": [
+            {
+                "_id": "6022de253daea90ed94254ee",
+                "order": 0,
+                "parent": "6022de243daea90ed94254ed",
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "All States"
+                },
+                "materialIconName": "LocationSearching",
+                "icon": "5fec938d2b531685e091b225",
+                "href": "/state",
+                "meta_name": "manage_state_city",
+                "type": "ADMIN",
+                "createdBy": "5ff30a5ead38b8366c78b08b",
+                "createdAt": "2021-02-09T19:10:29.411Z",
+                "updatedAt": "2021-02-09T19:10:29.411Z",
+                "__v": 0
+            },
+            {
+                "_id": "6022de253daea90ed94254ef",
+                "order": 0,
+                "parent": "6022de243daea90ed94254ed",
+                "target": "same",
+                "isGroup": false,
+                "isMaterialIcon": true,
+                "status": 1,
+                "name": {
+                    "en": "All Banners"
+                },
+                "materialIconName": "LocationSearching",
+                "icon": "5fec938d2b531685e091b225",
+                "href": "/banner",
+                "type": "ADMIN",
+                "meta_name": "manage_banner",
+                "createdBy": "5ff30a5ead38b8366c78b08b",
+                "createdAt": "2021-08-13T21:30:00.000Z",
+                "updatedAt": "2021-08-13T21:30:00.000Z",
+                "__v": 0
+            }
+        ]
+    },
+    {
+        "_id": "601d592b6d078a287aef2a2b",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "All Transactions"
+        },
+        "materialIconName": "MusicVideo",
+        "type": "ADMIN",
+        "href": "/all-transaction",
+        "meta_name": "manage_accountings",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-02-05T14:41:47.586Z",
+        "updatedAt": "2021-02-05T14:41:47.586Z",
+        "__v": 0
+    },
+    {
+        "_id": "61175ba775c67338a1dbe4c8",
+        "institute": null,
+        "order": 0,
+        "parent": null,
+        "target": "same",
+        "isGroup": false,
+        "isMaterialIcon": true,
+        "status": 1,
+        "name": {
+            "en": "All Leads"
+        },
+        "materialIconName": "Assessment",
+        "type": "ADMIN",
+        "href": "/leads",
+        "meta_name": "manage_leads",
+        "createdBy": "5fe58f6160591bd99d7cf874",
+        "createdAt": "2021-08-14T06:09:48.443Z",
+        "updatedAt": "2021-08-14T06:09:48.443Z",
+        "__v": 0
+    }
+]
